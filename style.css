@@ -1,0 +1,190 @@
+
+@font-face {
+    font-family: 'Frankfurter';
+    src: url(FrankfurterStdRegular.otf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+.desktop-2 {
+    align-items: flex-start;
+    background-color: #eb9597;
+    display: flex;
+    height: 1080px;
+    mix-blend-mode: normal;
+    padding: 0 56px;
+    width: 1920px;
+  }
+  .desktop-2 .flex-col {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-left: 102px;
+    margin-top: 51px;
+    min-height: 970px;
+    width: 1619px;
+  }
+  .desktop-2 .group {
+    align-items: flex-start;
+    display: flex;
+    height: 37px;
+    justify-content: center;
+    left: 1381px;
+    min-width: 30px;
+    position: absolute;
+    top: 22px;
+  }
+  .desktop-2 .logo {
+    height: 66px;
+    margin-top: 59px;
+    mix-blend-mode: normal;
+    width: 84px;
+  }
+  .desktop-2 .overlap-group {
+    align-self: flex-start;
+    height: 98px;
+    margin-top: 680px;
+    position: relative;
+    width: 1440px;
+  }
+  .desktop-2 .overlap-group1 {
+    height: 37px;
+    margin-top: -0.2px;
+    position: relative;
+    width: 30px;
+  }
+  .desktop-2 .rectangle-69 {
+    background-color: #99525499;
+    border-radius: 20px;
+    border: 7px solid;
+    height: 77px;
+    left: 0;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 21px;
+    width: 1440px;
+  }
+  .desktop-2 .rectangle-70 {
+    background-color: #eb9597;
+    border-radius: 20px;
+    border: 7px solid;
+    height: 77px;
+    left: 0;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  .desktop-2 .sign-in {
+    color: #000000;
+    font-family: 'Frankfurter';
+    font-size: small;
+    letter-spacing: -1.50px;
+    margin-right: 3px;
+    min-height: 32px;
+    min-width: 169px;
+    mix-blend-mode: normal;
+    text-align: right;
+    width: 169px;
+  }
+  .desktop-2 .output {
+    color: #000000;
+    font-family: 'Frankfurter';
+    font-size: small;
+    letter-spacing: -1.50px;
+    margin-right: 3px;
+    min-height: 32px;
+    min-width: 169px;
+    mix-blend-mode: normal;
+    text-align: right;
+    width: 169px;
+  }
+  .desktop-2 .span0 {
+    color: #5f3838;
+    letter-spacing: -0.61px;
+  }
+  .desktop-2 .span1 {
+    color: #995254;
+    letter-spacing: -0.61px;
+  }
+  .desktop-2 .text-1 {
+    color: transparent;
+    font-family: 'Frankfurter';
+    font-size: medium;
+    letter-spacing: -1.75px;
+    margin-top: 15px;
+    min-height: 145px;
+    min-width: 594px;
+    text-align: right;
+    width: 594px;
+  }
+  .desktop-2 .worries {
+    color: #000000;
+    font-family: 'Frankfurter';
+    font-size: medium;
+    text-align: right;
+  }
+  .white-blurred-edge {
+    opacity:0.7;
+    padding:10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    box-shadow: 0 0 10px 10px #EB9597 inset;
+}
+  .desktop-2 .outtext {
+    color: #000000;
+    font-family: 'Frankfurter';
+    font-size: large;
+    position: absolute;
+    letter-spacing: -1.50px;
+    mix-blend-mode: normal;
+    text-align: right;
+  }
+  .desktop-2 .vector {
+    height: 37px;
+    left: 0;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  .desktop-2 .vector-1 {
+    height: 6px;
+    left: 2px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 23px;
+    width: 5px;
+  }
+  .desktop-2 .vector-2 {
+    height: 1px;
+    left: 26px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 25px;
+    width: 2px;
+  }
+  .desktop-2 .you-can-let-go-ative-mind-here {
+    background-color: transparent;
+    border: 0;
+    color: #000000;
+    font-family: 'Frankfurter';
+    font-size: large;
+    font-weight: 400;
+    height: 27px;
+    left: 24px;
+    letter-spacing: -1.80px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    padding: 0;
+    position: absolute;
+    resize: none;
+    text-align: left;
+    top: 26px;
+    width: 767px;
+  }
+  .desktop-2 .you-can-let-go-ative-mind-here::placeholder {
+    color: #00000099;
+  }
+  
+ 

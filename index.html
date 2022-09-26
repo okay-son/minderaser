@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+    <link rel="stylesheet" href="style.css" />
+
+</head>
+<body>
+    <div class="container-center-horizontal">
+        <div class="desktop-2 screen">
+          <div class='worries' id="eraserboard" style="position:relative;min-height:500px;overflow:hidden">
+            <p class='floatingtext white-blurred-edge'>worry</p>
+            <p class='floatingtext white-blurred-edge'>anxiety</p>
+            <p class='floatingtext white-blurred-edge'>doubt</p>
+            <p class='floatingtext white-blurred-edge'>anger</p>
+            <p class='floatingtext white-blurred-edge'>unhappiness</p>
+          </div>
+          <img class="logo" src="eraserlogo.png" />
+          <div class="flex-col">
+            <div class="sign-in">sign in</div>
+            <h1 class="text-1">
+              <span class="span0">12,398 </span><span class="span1">people has erased<br />their negative mind</span>
+            </h1>
+            <p id="outtext" class="outtext"></p>
+            <div class="overlap-group">
+              <div class="rectangle-69 border-5px-black"></div>
+              <div class="rectangle-70 border-5px-black"></div>
+              <div class="group">
+                <div class="overlap-group1">
+                  <img class="vector-2" src="" />
+                  <img class="vector-1" src="" />
+                  <img class="vector" src="enter.png" />
+                </div>
+              </div>
+              <input
+                class="you-can-let-go-ative-mind-here"
+                name="you-can-let-go-of-your-negative-mind-here"
+                placeholder="YOU CAN LET GO OF YOUR NEGATIVE MIND HERE"
+                type="text"
+                id="thought"
+                onkeydown="generatenewtext(this)"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    <script src="main.js"></script>
+  </body>
+</html>
